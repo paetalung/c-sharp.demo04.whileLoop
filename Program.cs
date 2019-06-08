@@ -11,8 +11,8 @@ namespace demo04.whileLoop
 
             while(count <= max_count)
             {
-                count++;
                 Console.WriteLine("Round " + count + ".");
+                count++;
             }
         }
     }
